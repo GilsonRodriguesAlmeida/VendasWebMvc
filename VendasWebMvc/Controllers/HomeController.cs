@@ -23,6 +23,14 @@ namespace VendasWebMvc.Controllers
             return View();
         }
 
+        public IActionResult About()
+        {
+            ViewData["Message"] = "Aplicação de vendas para o Curso de C#";
+            ViewData["Aluno"] = "Gilson Rodrigues de Almeida";
+
+            return View();
+        }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
