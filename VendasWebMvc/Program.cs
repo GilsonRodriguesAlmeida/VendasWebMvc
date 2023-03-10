@@ -10,6 +10,8 @@ builder.Services.AddDbContext<VendasWebMvcContext>(options =>
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+builder.Services.AddScoped<SeedingService>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -22,6 +24,8 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
+
+app.Services.CreateScope().ServiceProvider.GetRequiredService<SeedingService>().Seed();
 
 app.UseRouting();
 
