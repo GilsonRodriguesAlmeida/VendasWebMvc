@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
+      "Id": "D:\\C_Sharp\\VendasWebMvc\\VendasWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-f.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-f.min.css"
+    },
+    {
       "Id": "D:\\C_Sharp\\VendasWebMvc\\VendasWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
@@ -123,6 +127,10 @@
     {
       "Id": "D:\\C_Sharp\\VendasWebMvc\\VendasWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\C_Sharp\\VendasWebMvc\\VendasWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min-f.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min-f.css"
     },
     {
       "Id": "D:\\C_Sharp\\VendasWebMvc\\VendasWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",

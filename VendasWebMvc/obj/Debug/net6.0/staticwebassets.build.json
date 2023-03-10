@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YUt+c8mYoIsEzWV67Le+kd8aDAKCPBe4aYwQnundAtc=",
+  "Hash": "aHrbGD9sOxf29KYclq8fL74ddiq2140sTF7WvsiV8gg=",
   "Source": "VendasWebMvc",
   "BasePath": "_content/VendasWebMvc",
   "Mode": "Default",
@@ -170,6 +170,23 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
+      "Identity": "D:\\C_Sharp\\VendasWebMvc\\VendasWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min-f.css",
+      "SourceId": "VendasWebMvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C_Sharp\\VendasWebMvc\\VendasWebMvc\\wwwroot\\",
+      "BasePath": "_content/VendasWebMvc",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min-f.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min-f.css"
+    },
+    {
       "Identity": "D:\\C_Sharp\\VendasWebMvc\\VendasWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "VendasWebMvc",
       "SourceType": "Discovered",
@@ -236,6 +253,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "D:\\C_Sharp\\VendasWebMvc\\VendasWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-f.min.css",
+      "SourceId": "VendasWebMvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C_Sharp\\VendasWebMvc\\VendasWebMvc\\wwwroot\\",
+      "BasePath": "_content/VendasWebMvc",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-f.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-f.min.css"
     },
     {
       "Identity": "D:\\C_Sharp\\VendasWebMvc\\VendasWebMvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
